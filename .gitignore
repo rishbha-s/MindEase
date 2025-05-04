@@ -3,3 +3,4 @@ chatbot-model.h5
 data.pickle
 .env
 env/
+instance/
